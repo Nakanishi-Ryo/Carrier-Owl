@@ -3,7 +3,7 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        explain: 3
+   explain: 3
 
 # 通知の閾値
-score_threshold: -1
+score_threshold: 0
