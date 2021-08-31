@@ -3,7 +3,11 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-    explain: 3
+    genetic algorithm: 5
+    genetic: 3
+    function estimation: 3
+    semantic segmentation: 3
+    
 
 # 通知の閾値
 score_threshold: 0
